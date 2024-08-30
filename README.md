@@ -28,7 +28,7 @@ In this task, I utilized SQL to perform a detailed analysis of hotel reservation
 
 ---
 
-### 3. 🎶 Songs Analysis in Power BI/Tableau
+### 3. 🎶 Youtube Songs Analysis in Power BI
 **Objective:** Visualize and analyze song data using Power BI/Tableau.
 
 For this task, I leveraged Power BI/Tableau to create interactive visualizations that uncover patterns and insights in song data. Key aspects of the analysis include:
@@ -42,7 +42,7 @@ For this task, I leveraged Power BI/Tableau to create interactive visualizations
 ---
 
 ## 🚀 About the Internship
-The Mentorness Internship provided a platform to enhance my data analysis skills and gain practical experience in SQL and data visualization tools like Power BI and Tableau. Through these tasks, I developed a deeper understanding of database management, data retrieval, and the power of visual storytelling in data analysis.
+The Mentorness Internship provided a platform to enhance my data analysis skills and gain practical experience in SQL and data visualization tools like Power BI. Through these tasks, I developed a deeper understanding of database management, data retrieval, and the power of visual storytelling in data analysis.
 
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/manjiri-sawant-3893b757/)
