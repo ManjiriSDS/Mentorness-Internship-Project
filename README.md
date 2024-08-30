@@ -1,6 +1,4 @@
-# 🎓 Mentorness Internship - Batch MIP-DA-10
-
-<img align="right" <img src="https://media.baamboozle.com/uploads/images/43331/1614762563_77278_gif-url.gif"  height="50" width ="60"/>
+# 🎓 Mentorness Internship - Batch MIP-DA-10 <img align="right" src="https://github.com/ManjiriSDS/Mentorness-Internship-Project/blob/ee7b1127135cdbc97331c8aa5f0e1990a06057a5/logo.png"  height="150" width ="130"/>
 
 Welcome to my repository for the Mentorness Internship! This repository showcases the tasks I completed as part of Batch MIP-DA-10, where I honed my data analysis and visualization skills using SQL and Power BI.
 
