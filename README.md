@@ -8,9 +8,9 @@ Welcome to my repository for the Mentorness Internship! This repository showcase
 **Topic:** Indexing Overview: Introduction to indexes and their role in improving query performance by speeding up data retrieval.
 
 In this task, I created an engaging reel to explain the concept of indexing in SQL. The reel covers:
-- ☑️ 𝑾𝒉𝒂𝒕 𝒊𝒏𝒅𝒆𝒙𝒆𝒔 𝒂𝒓𝒆: Think of them like library card catalogs for your data.
-- ☑️ 𝑯𝒐𝒘 𝒕𝒉𝒆𝒚 𝒘𝒐𝒓𝒌: Indexes speed up data retrieval by pointing directly to relevant rows.
-- ☑️ 𝑾𝒉𝒆𝒏 𝒕𝒐 𝒖𝒔𝒆 (𝒂𝒏𝒅 𝒏𝒐𝒕 𝒖𝒔𝒆!) 𝒊𝒏𝒅𝒆𝒙𝒊𝒏𝒈: Use wisely and keep them updated for smooth database operations.
+- ☑️ 𝑾𝒉𝒂𝒕 𝒊𝒏𝒅𝒆𝒙𝒆𝒔 𝒂𝒓𝒆: A brief introduction to indexes in SQL and their purpose.
+- ☑️ 𝑯𝒐𝒘 𝒕𝒉𝒆𝒚 𝒘𝒐𝒓𝒌: An overview of how indexes speed up data retrieval by organizing data in a way that allows faster searches.
+- ☑️  **Performance Impact:** How indexes can significantly improve query performance but may come with trade-offs.
 
 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐂𝐚𝐧𝐯𝐚 for a visually engaging explanation⚡
 
