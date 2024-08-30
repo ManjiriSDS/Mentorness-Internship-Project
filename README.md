@@ -16,6 +16,8 @@ In this task, I created an engaging reel to explain the concept of indexing in S
 
 [🎥 Watch the Reel](#) <!-- Add link to your reel if available -->
 
+---
+
 ### 2. 🏨 Hotel Reservation Analysis in SQL
 **Objective:** Analyze hotel reservation data to extract meaningful insights and trends.
 
@@ -25,6 +27,8 @@ In this task, I utilized SQL to perform a detailed analysis of hotel reservation
 - ☑️ 𝗔𝗰𝘁𝗶𝗼𝗻𝗮𝗯𝗹𝗲 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀: Formulated data-driven recommendations to improve room occupancy, revenue, and guest experience.
 
 [📁 View SQL Analysis](#) <!-- Add link to your SQL scripts or analysis -->
+
+---
 
 ### 3. 🎶 Songs Analysis in Power BI/Tableau
 **Objective:** Visualize and analyze song data using Power BI/Tableau.
@@ -36,6 +40,8 @@ For this task, I leveraged Power BI/Tableau to create interactive visualizations
 - **Tag Analysis:** Understanding the impact of tags on song discovery and views.
 
 [📊 Explore the Dashboard](#) <!-- Add link to your Power BI/Tableau dashboard if available -->
+
+---
 
 ## 🚀 About the Internship
 The Mentorness Internship provided a platform to enhance my data analysis skills and gain practical experience in SQL and data visualization tools like Power BI and Tableau. Through these tasks, I developed a deeper understanding of database management, data retrieval, and the power of visual storytelling in data analysis.
