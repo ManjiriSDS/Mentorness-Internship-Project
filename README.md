@@ -24,7 +24,7 @@ In this task, I utilized SQL to perform a detailed analysis of hotel reservation
 - ☑️ 𝑮𝒖𝒆𝒔𝒕 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒓 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔: Identified patterns in lead time, cancellation rates, and market segments, allowing hotels to tailor their strategies.
 - ☑️ 𝑨𝒄𝒕𝒊𝒐𝒏𝒂𝒃𝒍𝒆 𝑺𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒆𝒔: Formulated data-driven recommendations to improve room occupancy, revenue, and guest experience.
 
-[📁 View SQL Analysis](#) <!-- Add link to your SQL scripts or analysis -->
+[📁 View SQL Analysis](https://github.com/ManjiriSDS/Mentorness-Internship-Project/blob/356fff70a61798adb0a6164dbc45393a3368ac10/Hotel%20Reservation%20Analysis%20With%20SQL/Hotel%20Analysis%20ppt%20Submission.pdf) <!-- Add link to your SQL scripts or analysis -->
 
 ---
 
@@ -37,7 +37,7 @@ For this task, I leveraged Power BI/Tableau to create interactive visualizations
 - ☑️ 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒗𝒔. 𝑷𝒐𝒑𝒖𝒍𝒂𝒓𝒊𝒕𝒚: Exploring the relationship between song duration and popularity.
 - ☑️ 𝑻𝒂𝒈 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔: Understanding the impact of tags on song discovery and views.
 
-[📊 Explore the Dashboard](#) <!-- Add link to your Power BI/Tableau dashboard if available -->
+[📊 Explore the Dashboard](https://github.com/ManjiriSDS/Mentorness-Internship-Project/blob/356fff70a61798adb0a6164dbc45393a3368ac10/YouTube%20Song%20Analysis%20With%20Power%20BI/Song%20Analysis%20Dashboard.png) <!-- Add link to your Power BI/Tableau dashboard if available -->
 
 ---
 
