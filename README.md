@@ -45,6 +45,7 @@ For this task, I leveraged Power BI to create interactive visualizations that un
 
 [📊 Explore the Dashboard](https://github.com/ManjiriSDS/Mentorness-Internship-Project/blob/356fff70a61798adb0a6164dbc45393a3368ac10/YouTube%20Song%20Analysis%20With%20Power%20BI/Song%20Analysis%20Dashboard.png) <!-- Add link to your Power BI/Tableau dashboard if available -->
 
+---
 
 ### 📽️ Presentation Video
 I’ve also created a presentation video summarizing my work and insights from the project. Watch it to get a comprehensive overview of my journey.
