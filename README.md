@@ -1,6 +1,6 @@
 # 🎓 Mentorness Internship - Batch MIP-DA-10
 
-Welcome to my repository for the Mentorness Internship! This repository showcases the tasks I completed as part of Batch MIP-DA-10, where I honed my data analysis and visualization skills using SQL and Tableau.
+Welcome to my repository for the Mentorness Internship! This repository showcases the tasks I completed as part of Batch MIP-DA-10, where I honed my data analysis and visualization skills using SQL and Power BI.
 
 ## 🌟 Internship Tasks Overview
 
@@ -35,7 +35,7 @@ For this task, I leveraged Power BI/Tableau to create interactive visualizations
 - ☑️ 𝑻𝒐𝒑 𝑺𝒐𝒏𝒈𝒔 𝒃𝒚 𝑽𝒊𝒆𝒘𝒔: Identifying the most popular songs based on view counts.
 - ☑️ 𝑳𝒊𝒌𝒆-𝒕𝒐-𝑽𝒊𝒆𝒘 𝑹𝒂𝒕𝒊𝒐: Analyzing songs with the highest engagement through likes.
 - ☑️ 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒗𝒔. 𝑷𝒐𝒑𝒖𝒍𝒂𝒓𝒊𝒕𝒚: Exploring the relationship between song duration and popularity.
-- ☑️ 𝐓𝐚𝐠 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Understanding the impact of tags on song discovery and views.
+- ☑️ 𝑻𝒂𝒈 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔: Understanding the impact of tags on song discovery and views.
 
 [📊 Explore the Dashboard](#) <!-- Add link to your Power BI/Tableau dashboard if available -->
 
