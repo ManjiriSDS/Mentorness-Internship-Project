@@ -32,10 +32,10 @@ In this task, I utilized SQL to perform a detailed analysis of hotel reservation
 **Objective:** Visualize and analyze song data using Power BI/Tableau.
 
 For this task, I leveraged Power BI/Tableau to create interactive visualizations that uncover patterns and insights in song data. Key aspects of the analysis include:
-- **Top Songs by Views:** Identifying the most popular songs based on view counts.
-- **Like-to-View Ratio:** Analyzing songs with the highest engagement through likes.
-- **Duration vs. Popularity:** Exploring the relationship between song duration and popularity.
-- **Tag Analysis:** Understanding the impact of tags on song discovery and views.
+- ☑️ 𝑻𝒐𝒑 𝑺𝒐𝒏𝒈𝒔 𝒃𝒚 𝑽𝒊𝒆𝒘𝒔: Identifying the most popular songs based on view counts.
+- ☑️ 𝑳𝒊𝒌𝒆-𝒕𝒐-𝑽𝒊𝒆𝒘 𝑹𝒂𝒕𝒊𝒐: Analyzing songs with the highest engagement through likes.
+- ☑️ 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒗𝒔. 𝑷𝒐𝒑𝒖𝒍𝒂𝒓𝒊𝒕𝒚: Exploring the relationship between song duration and popularity.
+- ☑️ 𝐓𝐚𝐠 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Understanding the impact of tags on song discovery and views.
 
 [📊 Explore the Dashboard](#) <!-- Add link to your Power BI/Tableau dashboard if available -->
 
@@ -45,8 +45,7 @@ For this task, I leveraged Power BI/Tableau to create interactive visualizations
 The Mentorness Internship provided a platform to enhance my data analysis skills and gain practical experience in SQL and data visualization tools like Power BI and Tableau. Through these tasks, I developed a deeper understanding of database management, data retrieval, and the power of visual storytelling in data analysis.
 
 ## 🤝 Let's Connect
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/manjiri-sawant-3893b757/)
+- [GitHub](https://github.com/ManjiriSDS/ManjiriSDS)
 
 Thank you for visiting my repository! Feel free to explore the tasks and reach out if you have any questions or suggestions.
