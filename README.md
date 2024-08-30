@@ -1,6 +1,6 @@
 # 🎓 Mentorness Internship - Batch MIP-DA-10
 
-Welcome to my repository for the Mentorness Internship! This repository showcases the tasks I completed as part of Batch MIP-DA-10, where I honed my data analysis and visualization skills using SQL, Power BI, and Tableau.
+Welcome to my repository for the Mentorness Internship! This repository showcases the tasks I completed as part of Batch MIP-DA-10, where I honed my data analysis and visualization skills using SQL and Tableau.
 
 ## 🌟 Internship Tasks Overview
 
@@ -8,10 +8,11 @@ Welcome to my repository for the Mentorness Internship! This repository showcase
 **Topic:** Indexing Overview: Introduction to indexes and their role in improving query performance by speeding up data retrieval.
 
 In this task, I created an engaging reel to explain the concept of indexing in SQL. The reel covers:
-- **What is an Index?** A brief introduction to indexes in SQL and their purpose.
-- **How Indexing Works:** An overview of how indexes speed up data retrieval by organizing data in a way that allows faster searches.
-- **Types of Indexes:** A look at different types of indexes (e.g., clustered and non-clustered).
-- **Performance Impact:** How indexes can significantly improve query performance but may come with trade-offs.
+- ☑️ 𝑾𝒉𝒂𝒕 𝒊𝒏𝒅𝒆𝒙𝒆𝒔 𝒂𝒓𝒆: Think of them like library card catalogs for your data.
+- ☑️ 𝑯𝒐𝒘 𝒕𝒉𝒆𝒚 𝒘𝒐𝒓𝒌: Indexes speed up data retrieval by pointing directly to relevant rows.
+- ☑️ 𝑾𝒉𝒆𝒏 𝒕𝒐 𝒖𝒔𝒆 (𝒂𝒏𝒅 𝒏𝒐𝒕 𝒖𝒔𝒆!) 𝒊𝒏𝒅𝒆𝒙𝒊𝒏𝒈: Use wisely and keep them updated for smooth database operations.
+
+𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐂𝐚𝐧𝐯𝐚 for a visually engaging explanation⚡
 
 [🎥 Watch the Reel](#) <!-- Add link to your reel if available -->
 
@@ -19,10 +20,9 @@ In this task, I created an engaging reel to explain the concept of indexing in S
 **Objective:** Analyze hotel reservation data to extract meaningful insights and trends.
 
 In this task, I utilized SQL to perform a detailed analysis of hotel reservation data. The analysis includes:
-- **Reservation Trends:** Identifying peak booking periods and popular room types.
-- **Cancellation Patterns:** Analyzing the factors contributing to reservation cancellations.
-- **Revenue Insights:** Calculating revenue generated from different room types and booking channels.
-- **Customer Segmentation:** Segmenting customers based on booking behavior and preferences.
+- ☑️ 𝗦𝗲𝗮𝘀𝗼𝗻𝗮𝗹 𝗕𝗼𝗼𝗸𝗶𝗻𝗴 𝗧𝗿𝗲𝗻𝗱𝘀: Unraveled peak seasons, shoulder months, and low-demand periods to help hotels prepare accordingly.
+- ☑️ 𝗚𝘂𝗲𝘀𝘁 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: Identified patterns in lead time, cancellation rates, and market segments, allowing hotels to tailor their strategies.
+- ☑️ 𝗔𝗰𝘁𝗶𝗼𝗻𝗮𝗯𝗹𝗲 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀: Formulated data-driven recommendations to improve room occupancy, revenue, and guest experience.
 
 [📁 View SQL Analysis](#) <!-- Add link to your SQL scripts or analysis -->
 
