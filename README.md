@@ -7,12 +7,10 @@ Welcome to my repository for the Mentorness Internship! This repository showcase
 ### 1. 🎬 Reel Task: Indexing Overview in SQL
 **Topic:** Indexing Overview: Introduction to indexes and their role in improving query performance by speeding up data retrieval.
 
-In this task, I created an engaging reel to explain the concept of indexing in SQL. The reel covers:
+In this task, I created an engaging reel to explain the concept of indexing in SQL using **Canva**. The reel covers:
 - ☑️ 𝑾𝒉𝒂𝒕 𝒊𝒏𝒅𝒆𝒙𝒆𝒔 𝒂𝒓𝒆: A brief introduction to indexes in SQL and their purpose.
 - ☑️ 𝑯𝒐𝒘 𝒕𝒉𝒆𝒚 𝒘𝒐𝒓𝒌: An overview of how indexes speed up data retrieval by organizing data in a way that allows faster searches.
 - ☑️  **Performance Impact:** How indexes can significantly improve query performance but may come with trade-offs.
-
-𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐂𝐚𝐧𝐯𝐚 for a visually engaging explanation⚡
 
 [🎥 Watch the Reel](#) <!-- Add link to your reel if available -->
 
