@@ -33,7 +33,7 @@ In this task, I utilized SQL to perform a detailed analysis of hotel reservation
 ### 📽️ Presentation Video
 I’ve also created a presentation video summarizing my work and insights from the project. Watch it to get a comprehensive overview of my journey.
 
-📊 [📽️ View the PowerPoint Video](#) <!-- Add link to your PowerPoint video -->
+[View the PowerPoint Video](https://youtu.be/eFPHU65kPyQ?si=Bahkgoy-Z0Xo9E1u) <!-- Add link to your PowerPoint video -->
 
 
 ---
@@ -54,7 +54,7 @@ For this task, I leveraged Power BI to create interactive visualizations that un
 ### 📽️ Presentation Video
 I’ve also created a presentation video summarizing my work and insights from the project. Watch it to get a comprehensive overview of my journey.
 
-📊 [📽️ View the PowerPoint Video](https://youtu.be/BDb794ltNOY?si=d12-6T7RX6ZDcCrO) <!-- Add link to your PowerPoint video -->
+[View the PowerPoint Video](https://youtu.be/BDb794ltNOY?si=d12-6T7RX6ZDcCrO) <!-- Add link to your PowerPoint video -->
 
 ---
 
