@@ -30,12 +30,6 @@ In this task, I utilized SQL to perform a detailed analysis of hotel reservation
 
 [📁 View SQL Analysis](https://github.com/ManjiriSDS/Mentorness-Internship-Project/blob/356fff70a61798adb0a6164dbc45393a3368ac10/Hotel%20Reservation%20Analysis%20With%20SQL/Hotel%20Analysis%20ppt%20Submission.pdf) <!-- Add link to your SQL scripts or analysis -->
 
-### 📽️ Presentation Video
-I’ve also created a presentation video summarizing my work and insights from the project. Watch it to get a comprehensive overview of my journey.
-
-[View the PowerPoint Video](https://youtu.be/eFPHU65kPyQ?si=Bahkgoy-Z0Xo9E1u) <!-- Add link to your PowerPoint video -->
-
-
 ---
 
 ### 3. 🎶 YouTube Songs Analysis in Power BI
@@ -51,8 +45,13 @@ For this task, I leveraged Power BI to create interactive visualizations that un
 
 [📊 Explore the Dashboard](https://github.com/ManjiriSDS/Mentorness-Internship-Project/blob/356fff70a61798adb0a6164dbc45393a3368ac10/YouTube%20Song%20Analysis%20With%20Power%20BI/Song%20Analysis%20Dashboard.png) <!-- Add link to your Power BI/Tableau dashboard if available -->
 
+---
+
 ### 📽️ Presentation Video
 I’ve also created a presentation video summarizing my work and insights from the project. Watch it to get a comprehensive overview of my journey.
+
+[View the PowerPoint Video](https://youtu.be/eFPHU65kPyQ?si=Bahkgoy-Z0Xo9E1u) <!-- Add link to your PowerPoint video -->
+
 
 [View the PowerPoint Video](https://youtu.be/BDb794ltNOY?si=d12-6T7RX6ZDcCrO) <!-- Add link to your PowerPoint video -->
 
