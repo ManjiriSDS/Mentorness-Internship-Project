@@ -10,7 +10,7 @@ Welcome to my repository for the Mentorness Internship! This repository showcase
 In this task, I created with **Canva** an engaging reel to explain the concept of indexing in SQL. The reel covers:
 - ☑️ 𝑾𝒉𝒂𝒕 𝒊𝒏𝒅𝒆𝒙𝒆𝒔 𝒂𝒓𝒆: A brief introduction to indexes in SQL and their purpose.
 - ☑️ 𝑯𝒐𝒘 𝒕𝒉𝒆𝒚 𝒘𝒐𝒓𝒌: An overview of how indexes speed up data retrieval by organizing data in a way that allows faster searches.
-- ☑️  **Performance Impact:** How indexes can significantly improve query performance but may come with trade-offs.
+- ☑️ 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑰𝒎𝒑𝒂𝒄𝒕: How indexes can significantly improve query performance but may come with trade-offs.
 
 [🎥 Watch the Reel](#) <!-- Add link to your reel if available -->
 
@@ -20,9 +20,9 @@ In this task, I created with **Canva** an engaging reel to explain the concept o
 **Objective:** Analyze hotel reservation data to extract meaningful insights and trends.
 
 In this task, I utilized SQL to perform a detailed analysis of hotel reservation data. The analysis includes:
-- ☑️ 𝗦𝗲𝗮𝘀𝗼𝗻𝗮𝗹 𝗕𝗼𝗼𝗸𝗶𝗻𝗴 𝗧𝗿𝗲𝗻𝗱𝘀: Unraveled peak seasons, shoulder months, and low-demand periods to help hotels prepare accordingly.
-- ☑️ 𝗚𝘂𝗲𝘀𝘁 𝗕𝗲𝗵𝗮𝘃𝗶𝗼𝗿 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: Identified patterns in lead time, cancellation rates, and market segments, allowing hotels to tailor their strategies.
-- ☑️ 𝗔𝗰𝘁𝗶𝗼𝗻𝗮𝗯𝗹𝗲 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀: Formulated data-driven recommendations to improve room occupancy, revenue, and guest experience.
+- ☑️ 𝑺𝒆𝒂𝒔𝒐𝒏𝒂𝒍 𝑩𝒐𝒐𝒌𝒊𝒏𝒈 𝑻𝒓𝒆𝒏𝒅𝒔: Unraveled peak seasons, shoulder months, and low-demand periods to help hotels prepare accordingly.
+- ☑️ 𝑮𝒖𝒆𝒔𝒕 𝑩𝒆𝒉𝒂𝒗𝒊𝒐𝒓 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔: Identified patterns in lead time, cancellation rates, and market segments, allowing hotels to tailor their strategies.
+- ☑️ 𝑨𝒄𝒕𝒊𝒐𝒏𝒂𝒃𝒍𝒆 𝑺𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒆𝒔: Formulated data-driven recommendations to improve room occupancy, revenue, and guest experience.
 
 [📁 View SQL Analysis](#) <!-- Add link to your SQL scripts or analysis -->
 
